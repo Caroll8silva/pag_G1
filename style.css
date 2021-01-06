@@ -1,0 +1,230 @@
+body{ 
+    
+    margin:0 auto;
+    width:960px;
+    background-color:#FFF;
+    overflow: scroll;
+  	 background-image:url(topo.PNG);
+    background-repeat: repeat-x;
+
+
+   
+
+
+ }
+
+.title {
+	 	color: #212121;
+	 	position: absolute;
+	 	top: 175px;
+	 	left: 250px;
+	 	font-family: Segoe UI;
+	 	font-size: 28px;
+	 	line-height: 65px;
+	 }
+	 
+	 .subtitle {
+
+		color: #666666;
+	 	position: absolute;
+	 	top: 350px;
+	 	left: 250px;
+	 	font-family: Segoe UI light;
+	 	font-size: 14px;
+
+	 }
+	 
+	
+	 .obs {
+
+	 	color: #666666;
+	 	position: absolute;
+		top: 970px;
+	 	left: 375px;
+	 	font-family: Segoe UI light;
+	 	font-size: 12px;
+
+	 }
+
+	 .obs2 {
+
+	 	color: #666666;
+	 	position: absolute;
+		top: 475px;
+	 	left: 315px;
+	 	font-family: Segoe UI light;
+	 	font-size: 12px;
+
+
+
+	 }
+
+	 .obs3 {
+
+		color: #666666;
+	 	position: absolute;
+		top: 430px;
+	 	left: 315px;
+	 	font-family: arial;
+	 	font-size: 14px;
+
+
+	 }
+
+
+	 .text {
+
+	 	width: 650px;
+	 	height: 300px;
+	 	color: #454545;
+	 	position: absolute;
+		top: 970px;
+	 	left: 375px;
+	 	font-family: Segoe UI light;
+	 	font-size: 14px;
+	 	line-height: 35px;
+
+	 }
+
+
+
+	 .lista1 {
+
+	 	width: 650px;
+	 	height: 300px;
+	 	color: #454545;
+	 	position: absolute;
+		top: 2600px;
+	 	left: 375px;
+	 	font-family: Segoe UI;
+	 	font-size: 14px;
+
+	 }
+
+
+	 .lista1text {
+
+	 	width: 630px;
+	 	height: 300px;
+	 	color: #454545;
+	 	position: absolute;
+		top: 2645px;
+	 	left: 405px;
+	 	font-family: Segoe UI light;
+	 	font-size: 14px;
+		line-height: 35px;
+	 }
+
+	 .lista2 {
+
+	 	width: 650px;
+	 	height: 300px;
+	 	color: #454545;
+	 	position: absolute;
+		top: 2880px;
+	 	left: 375px;
+	 	font-family: Segoe UI;
+	 	font-size: 14px;
+
+	 }
+
+
+	 .lista2text {
+
+	 	width: 630px;
+	 	height: 300px;
+	 	color: #454545;
+	 	position: absolute;
+		top: 2925px;
+	 	left: 405px;
+	 	font-family: Segoe UI light;
+	 	font-size: 14px;
+		line-height: 35px;
+	 }
+
+	 .lista3 {
+
+	 	width: 650px;
+	 	height: 300px;
+	 	color: #454545;
+	 	position: absolute;
+		top: 3090px;
+	 	left: 375px;
+	 	font-family: Segoe UI;
+	 	font-size: 14px;
+
+	 }
+
+
+	 .lista3text {
+
+	 	width: 630px;
+	 	height: 300px;
+	 	color: #454545;
+	 	position: absolute;
+		top: 3135px;
+	 	left: 405px;
+	 	font-family: Segoe UI light;
+	 	font-size: 14px;
+		line-height: 35px;
+	 }
+
+	.text2 {
+
+	 	width: 650px;
+	 	height: 300px;
+	 	color: #454545;
+	 	position: absolute;
+		top: 3380px;
+	 	left: 375px;
+	 	font-family: Segoe UI light;
+	 	font-size: 14px;
+	 	
+	 }
+
+
+	 .rodape {
+
+	 	width: 1px;
+	 	height: 1px;
+	 	position: absolute;
+		top: 4100px;
+	 	left: 0px;
+	 }
+
+	 .detalhe {
+
+	 	width: 1px;
+	 	height: 1px;
+	 	position: absolute;
+		top: 150px;
+	 	left: 585px;
+
+
+
+	 }
+
+	 .detalhetext {
+
+	 	width: 1000px;
+	 	height: 1000px;
+	 	position: absolute;
+		top: 139px;
+	 	left: 592px;
+	 	color: #FFFFFF;
+	 	font-family: Segoe UI;
+	 	font-size: 9px;
+	 }
+
+
+	 .creditos{
+
+	 	width: 300px;
+	 	height: 100px;
+	 	position: absolute;
+		top: 50px;
+	 	left: 250px;
+	 	color: #FFFFFF;
+	 	font-family: Segoe UI light;
+	 	font-size: 10px;
+	 }
